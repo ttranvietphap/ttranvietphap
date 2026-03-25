@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Phap
 
-<!--
-**ttranvietphap/ttranvietphap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | C# | Oracle | HIS/LIS  
+🚀 Focus on healthcare systems & performance optimization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+- 🏥 Working on HIS / LIS systems
+- ⚡ Strong in Oracle SQL & performance tuning
+- 🧩 Experience with DevExpress, WinForms (.NET)
+- 🔍 Love debugging & optimizing systems
+
+---
+
+## 🛠 Tech Stack
+- 💻 C# (.NET Framework)
+- 🗄 Oracle / SQL Server
+- 🎨 DevExpress
+- 🔧 Git
+
+---
+
+## 📂 My Projects
+- 📘 dev-knowledge (knowledge base for bugs & solutions)
+- 🏥 his-lis-notes (workflow & system notes)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ttranvietphap&show_icons=true)
+
+---
+
+## 📫 Contact
+- Email: your@email.com
